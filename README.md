@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+### My name is Yang Sua!
+### I'm majoring a Computer Science at Tech University of Korea.
+
 ### I learned once...
 <img src="https://img.shields.io/badge/-Python-brightgreen"> <img src="https://img.shields.io/badge/-C-blue">
 
@@ -10,8 +13,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sua1897&show_icons=true&theme=radical)
 
-### My name is Yang Sua!
-### I'm majoring a Computer Science at Tech University of Korea.
+
 
 <!--
 **sua1897/sua1897** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
