@@ -1,11 +1,14 @@
 ### Hi there 👋
+
+### I learned once...
 <img src="https://img.shields.io/badge/-Python-brightgreen"> <img src="https://img.shields.io/badge/-C-blue">
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsua1897&count_bg=%2353799F&title_bg=%23000000&icon=&icon_color=%2353799F&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sua1897&show_icons=true&theme=radical)
 
 ### My name is Yang Sua!
-### I'm a student of Computer Science
+### I'm majoring a Computer Science at Tech University of Korea.
 
 <!--
 **sua1897/sua1897** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
