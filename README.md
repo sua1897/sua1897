@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there ^-^👋
 
 ### My name is Yang Sua!
 ### I'm majoring a Computer Science at Tech University of Korea.
